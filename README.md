@@ -6,6 +6,6 @@
 
 
 
-附查看数据/数据下命令：adb shell
-run-as 应用包名
-cd /data/data/应用包名
+附查看数据/数据下命令：1.adb shell
+2.run-as 应用包名
+3.cd /data/data/应用包名
